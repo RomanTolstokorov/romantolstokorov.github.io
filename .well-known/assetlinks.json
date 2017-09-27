@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "time.intapp.com",
+    "package_name": "com.intapp.time",
     "sha256_cert_fingerprints":
-    ["D4:1F:18:68:81:24:F2:6E:88:9F:1F:BB:D1:BA:DF:80:00:B3:83:52:97:6D:1D:BF:64:9A:6F:20:A9:0A:87:5A"]
+    ["B1:78:13:38:94:30:EC:1A:DB:58:C0:5C:29:29:C2:FD:AE:54:6B:03:17:AD:52:A7:CF:C1:C4:46:C4:3A:67:A2"]
   }
 }]
